@@ -16,7 +16,7 @@ def format_rows(docs):
 
 def format_labels(target, docs):
     """ format the labels """
-    return docs.target_names[target]
+    return docs.sentiment[target]
 
 def check_missing_values(row):
     """ functions that check and verifies if there are missing values in dataframe """

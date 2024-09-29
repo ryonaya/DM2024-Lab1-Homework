@@ -1,0 +1,300 @@
+this:412 
+my:400 
+the:369 
+to:358 
+song:353 
+and:309 
+was:290 
+this	song:283 
+of:278 
+me:258 
+this	my:252 
+back:249 
+in:248 
+this	to:230 
+memories:227 
+my	to:227 
+it:212 
+this	the:212 
+my	song:212 
+the	to:208 
+when:206 
+this	was:201 
+my	the:192 
+the	and:192 
+this	and:189 
+my	of:188 
+to	and:187 
+the	in:184 
+to	song:182 
+my	this	song:180 
+my	and:179 
+the	song:179 
+my	was:171 
+the	was:171 
+the	of:169 
+song	and:169 
+my	me:168 
+song	was:168 
+this	me:166 
+this	in:166 
+this	of:162 
+my	in:161 
+to	was:160 
+was	when:159 
+to	this	song:156 
+my	this	to:154 
+to	me:153 
+and	was:153 
+this	when:151 
+so:149 
+song	this	was:149 
+this	it:148 
+to	of:148 
+to	in:148 
+the	this	song:143 
+song	of:139 
+and	of:139 
+song	in:138 
+and	in:138 
+years:136 
+song	this	and:136 
+was	in:136 
+of	me:135 
+the	this	to:134 
+this	back:134 
+song	me:134 
+song	when:133 
+the	it:131 
+the	me:130 
+my	this	was:129 
+on:128 
+the	my	to:128 
+to	the	and:128 
+to	my	song:127 
+to	it:127 
+song	it:126 
+for:125 
+to	my	and:125 
+the	when:125 
+to	back:125 
+was	it:125 
+love:124 
+the	this	in:124 
+my	back:124 
+my	this	the:123 
+the	back:123 
+the	this	was:122 
+to	this	and:122 
+remember:121 
+was	this	when:121 
+to	when:121 
+my	this	and:120 
+the	this	and:119 
+to	this	was:119 
+song	this	me:118 
+song	this	in:117 
+song	this	when:117 
+to	the	in:117 
+back	memories:117 
+my	this	me:116 
+this	memories:116 
+my	this	of:115 
+song	this	of:114 
+my	it:114 
+my	when:114 
+and	me:114 
+that:113 
+time:113 
+and	this	was:113 
+song	my	and:113 
+song	back:113 
+and	it:113 
+the	my	in:112 
+to	my	me:112 
+and	the	in:112 
+song	this	it:111 
+to	my	was:111 
+was	of:111 
+my	this	in:110 
+the	my	of:110 
+to	my	this	song:109 
+old:108 
+to	this	in:108 
+to	the	was:108 
+song	to	and:108 
+song	memories:108 
+and	when:108 
+with:107 
+the	my	song:107 
+to	my	in:107 
+of	in:107 
+to	this	me:106 
+the	my	and:106 
+to	my	of:106 
+song	my	was:106 
+my	memories:106 
+to	the	of:106 
+to	the	song:105 
+was	song	when:105 
+song	the	and:104 
+brings:103 
+was	this	in:103 
+the	my	was:103 
+song	the	in:103 
+and	the	was:103 
+was	the	in:103 
+and	to	was:102 
+and	back:101 
+the	this	of:100 
+and	my	was:100 
+song	the	was:99 
+to	this	of:98 
+this	so:98 
+of	my	me:98 
+is:97 
+song	my	this	was:97 
+and	this	in:97 
+was	this	it:97 
+and	my	of:97 
+was	song	this	when:96 
+and	the	of:96 
+the	memories:96 
+was	me:96 
+to	this	it:95 
+song	my	of:95 
+song	to	was:95 
+song	my	in:94 
+was	the	when:94 
+the	on:94 
+to	so:94 
+and	song	was:94 
+great:93 
+song	my	this	and:93 
+and	to	of:93 
+was	to	when:93 
+of	it:93 
+the	this	when:92 
+this	years:92 
+was	my	in:92 
+and	to	in:92 
+to	memories:92 
+the	this	it:91 
+to	this	when:91 
+song	this	back:91 
+back	brings:91 
+my	this	it:90 
+of	the	in:90 
+music:89 
+you:89 
+song	the	this	was:89 
+song	the	this	in:89 
+of	this	me:89 
+and	my	in:89 
+was	the	it:89 
+me	back:89 
+the	my	this	to:88 
+to	the	this	song:88 
+the	this	me:88 
+song	to	this	and:88 
+song	to	this	was:88 
+and	this	of:88 
+song	my	me:88 
+was	and	when:88 
+me	it:88 
+in	when:88 
+my	this	when:87 
+was	song	in:87 
+was	and	in:87 
+me	in:87 
+back	in:87 
+the	my	this	song:86 
+and	song	this	was:86 
+and	this	it:86 
+this	on:86 
+was	my	when:86 
+my	years:86 
+to	my	this	was:85 
+to	the	me:85 
+song	the	of:85 
+and	to	me:85 
+of	back:85 
+of	when:85 
+to	my	this	and:84 
+to	the	this	in:84 
+song	the	this	and:84 
+my	on:84 
+song	to	in:84 
+of	memories:84 
+to	the	this	and:83 
+to	the	when:83 
+was	the	of:83 
+was	to	in:83 
+in	it:83 
+memories	brings:83 
+song	this	memories:82 
+this	remember:82 
+to	the	my	in:82 
+song	to	my	and:82 
+to	my	when:82 
+song	the	it:82 
+the	for:82 
+and	song	in:82 
+it	when:82 
+song	my	this	me:81 
+was	the	this	in:81 
+was	song	this	in:81 
+to	my	it:81 
+song	the	when:81 
+was	song	it:81 
+and	memories:81 
+was	back:81 
+the	my	this	was:80 
+to	my	this	me:80 
+song	my	this	of:80 
+song	my	this	in:80 
+to	the	this	was:80 
+and	this	when:80 
+this	for:80 
+this	love:80 
+to	the	my	and:80 
+to	the	it:80 
+and	the	it:80 
+and	this	me:79 
+of	my	in:79 
+the	time:79 
+song	to	of:79 
+song	to	me:79 
+and	to	when:79 
+but:78 
+days:78 
+to	my	this	in:78 
+my	this	back:78 
+and	the	this	in:78 
+was	this	of:78 
+to	my	back:78 
+my	so:78 
+was	to	it:78 
+was	years:78 
+and	to	this	was:77 
+to	this	back:77 
+my	love:77 
+and	to	the	in:77 
+and	the	when:77 
+the	so:77 
+the	years:77 
+song	to	it:77 
+song	to	when:77 
+to	years:77 
+song	so:77 
+was	and	it:77 
+and	so:77 
+and	on:77 
+and	my	this	was:76 
+the	my	me:76 
+the	my	it:76 
+and	my	me:76 
+the	that:76 
+and	song	of:76 
+me	when:76 
+was	on:75 
